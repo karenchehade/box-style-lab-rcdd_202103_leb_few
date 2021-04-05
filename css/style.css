@@ -25,20 +25,27 @@ h4 {
 
 }
 
+h4.amiable{
+      background: linear-gradient(#44cc66, #22aa44);
+}
 .amiable {
   border: 1px solid #22aa44;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #44cc66;
-    background: linear-gradient(#44cc66, #fff);
+
 
 }
-
+h4.indifferent{
+      background: linear-gradient(#dddd22, #eeee44);
+}
 .indifferent {
   border: 1px solid #eeee44;
   box-shadow:  -1px 1px #eeee44, -2px 2px #eeee44, -3px 3px #eeee44, -4px 4px #eeee44, -5px 5px #eeee44;
   background-color: #dddd22;
 }
-
+h4.dubious{
+      background: linear-gradient(#dd4444, #ee6666);
+}
 .dubious {
   border: 1px solid #ee6666;
   box-shadow:  -1px 1px #ee6666, -2px 2px #ee6666, -3px 3px #ee6666, -4px 4px #ee6666, -5px 5px #ee6666;
